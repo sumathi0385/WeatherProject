@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+
+.container{
+    
+    width: 500px;  
+    
+}
+
+.dropdown{
+  
+    width: 200px;
+    margin: 10px 0px;    
+    color: white;
+}
+.card{
+    border-radius: 35px;
+}
